@@ -1,0 +1,4 @@
+[09-Jul-2016 05:10:16 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERCENSUS/wp-content/themes/twentytwelve/404.php on line 10
+[01-Feb-2017 21:13:20 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERCENSUS/wp-content/themes/twentytwelve/author.php on line 14
+[01-Feb-2017 21:13:37 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERCENSUS/wp-content/themes/twentytwelve/author.php on line 14
+[21-Nov-2017 14:20:22 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SMARTERCENSUS/wp-content/themes/twentytwelve/404.php on line 10
